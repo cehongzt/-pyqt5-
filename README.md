@@ -1,2 +1,3 @@
 # -pyqt5-
-调用训练好的机器学习模型基于pyqt5建立了一个钢管混凝土极限承载力的预测程序
+调用基于pyqt5了一个控制器的高性能学习模型的建立模型预测
+The main model parameters are D, t, l,fy and fc, and the model accuracy is high
